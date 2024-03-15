@@ -32,7 +32,7 @@
 ## Contact me:
 
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=linkedin"/>](https://www.linkedin.com/in/indu-prakash-g/)
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=gmail"/>]()
+[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=gmail"/>](mailto:induprakash.gr@gmail.com)
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=instagram"/>](https://www.instagram.com/igr_._/)
 
 
