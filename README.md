@@ -7,11 +7,12 @@
 ✉️ &nbsp;You can shoot me an email at induprakash.gr@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1e7hUG4I7tX1p4B68RxJI9wp-S7hdCeqo/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
+<br>
+
 <div align="center" style="margin-bottom:200px">
  <img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=induprakashgr&theme=radical&show_icons=true" />
  <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=induprakashgr&layout=compact&theme=radical" />
 </div>
-
 
 <br>
 
@@ -24,7 +25,7 @@
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=mysql"/>](https://www.mysql.com/)
 
   
-#### Studying in this moment:
+#### Studying at this moment:
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=azure"/>](https://azure.microsoft.com/en-in)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=gcp"/>](https://cloud.google.com/)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=postgres"/>](https://www.postgresql.org/)
