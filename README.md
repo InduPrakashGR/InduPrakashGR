@@ -1,7 +1,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Data Science at Besant Technology.\
+🎓 &nbsp;I'm currently working as a Software Engineer - Data Science at Data Template.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Data Analysis, and Data Science.\
 💬 &nbsp;Feel free to reach out to me just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at induprakash.gr@gmail.com! I'll try to respond as soon as I can.\
